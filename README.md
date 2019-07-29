@@ -1,6 +1,6 @@
 # razorpay_example
 
-A new Flutter project.
+Integration of razorpay payment gateway in flutter use plugin.
 
 ## Getting Started
 
