@@ -68,17 +68,17 @@ class _CheckRazorState extends State<CheckRazor> {
 
     options = {
       'key': "YOUR_KEY_ID", // Enter the Key ID generated from the Dashboard
-   
+
       'amount': 100, //in the smallest currency sub-unit.
       'name': 'organization',
 
       'currency': "INR",
-      // 'theme.color': "#F37254",
+      'theme.color': "#F37254",
       'buttontext': "Pay with Razorpay",
       'description': 'RazorPay example',
       'prefill': {
-        'contact': '+916376870326',
-        'email': 'naveenyadav4116@gmail.com',
+        'contact': '9123456789',
+        'email': 'gaurav.kumar@example.com',
       }
     };
   }
