@@ -1,6 +1,6 @@
 # razorpay_example
 
-Integration of razorpay payment gateway in flutter use plugin.
+Integration of razorpay payment gateway in flutter by using {razorpay_flutter: ^1.1.1} plugin.
 
 ## Getting Started
 
